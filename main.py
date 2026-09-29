@@ -54,5 +54,5 @@ def SKU_generator(event):
         </div>
 
 
-document.querySelector(".btn-generate").addEventListener("click", SKU_generator)
+    """
 
